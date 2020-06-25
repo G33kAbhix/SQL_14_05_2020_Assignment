@@ -1,4 +1,4 @@
---      <ABHISHEK MONDAL> [12001018036]         -25-06-2020-
+--      CODER ABHIX         -25-06-2020-
        --------------------     PLSQL --------------------
 -- c) PLSQL CODE TO Find the percentage of marks obtained by a student.
 SET SERVEROUTPUT ON
